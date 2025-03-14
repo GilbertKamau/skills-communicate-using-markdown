@@ -10,5 +10,14 @@
 
 
 
+```Javascript
+const add= (a,b) => return a + b;
+
+
+```
+
+
+
 added all the headers  in the from one to 6
 added a mazda 2 picture
+added code
