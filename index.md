@@ -16,7 +16,12 @@ const add= (a,b) => return a + b;
 
 ```
 
+## adding a list 
 
+- [x] Identify a car
+- [x] Inspect the car
+- [x] Pay for the car
+- [ ] Drive of your new car
 
 added all the headers  in the from one to 6
 added a mazda 2 picture
